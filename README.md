@@ -1,2 +1,2 @@
-# VIS23-TIM47
+ VIS23-TIM47
 VIS zadaća 2
